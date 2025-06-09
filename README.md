@@ -1,4 +1,4 @@
 # hitalent
-for hitalent.org domain
+for hitalent.in domain
 use dev branch for latest
-dev branch is hosted at http://dev.hitalent.org/
+prod is hosted at http://dev.hitalent.in/
